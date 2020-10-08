@@ -1,9 +1,11 @@
 # Software Defined Infrastructure Automator
 
+The Software Defined Infrastructure Automator (SDIA) allows application developers to seamlessly plan a customized virtual infrastructure based on application level constraints on QoS and resource budgets, provisioning the virtual infrastructure using standardized interfaces (e.g., TOSCA and OCCI), deploy application components onto the virtual infrastructure, and start execution on demand.
+
+SDIA is developed by the research team for Quality Critical Applications on Programmable Infrastructure (QCAPI) in the MultiScale Networked Systems (MNS)  Group (SNE) of the University of Amsterdam.
 
 
 ## Architecture
-
 
 
 ![SDIA Architecture](https://raw.githubusercontent.com/qcdia-sdia/qcdia-sdia.github.io/main/images/Untitled%20drawing.png)
