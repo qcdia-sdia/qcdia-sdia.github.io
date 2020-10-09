@@ -4,6 +4,8 @@ The Software Defined Infrastructure Automator (SDIA) allows application develope
 
 SDIA is developed by the research team for Quality Critical Applications on Programmable Infrastructure (QCAPI) in the MultiScale Networked Systems (MNS)  Group (SNE) of the University of Amsterdam.
 
+![](https://upload.wikimedia.org/wikipedia/en/thumb/7/78/University_of_Amsterdam_logo.svg/1024px-University_of_Amsterdam_logo.svg.png)
+
 
 ## Architecture
 
