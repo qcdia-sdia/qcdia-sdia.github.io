@@ -6,6 +6,7 @@ SDIA is developed by the research team for Quality Critical Applications on Prog
 
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/University_of_Amsterdam_logo.svg/1024px-University_of_Amsterdam_logo.svg.png" alt="UvA" width="30"/>
+<img src="https://mns-research.nl/images/logo_hua931301caa9e2c039e68fbb874deb22a_17897_0x70_resize_lanczos_2.png" alt="UvA" width="30"/>
 
 ## Architecture
 
